@@ -1,58 +1,21 @@
-# FreeCodeCamp - Responsive Web Design
+# FreeCodeCamp
 
-1. Say Hello to HTML Elements
+## Responsive Web Design
 
-2. Headline with the h2 Element
+1. Basic HTML and HTML5
 
-3. Inform with the Paragraph Element
+2. Basic CSS
 
-4. Fill in the Blank with Placeholder Text
+3. Applied Visual Design
 
-5. Uncomment HTML
+4. Applied Accessibility
 
-6. Comment out HTML
+5. Responsive Web Design Principles
 
-7. Delete HTML Elements
+6. CSS Flexbox
 
-8. Introduction to HTML5 Elements
+7. CSS Grid
 
-9. Add Images to Your Website
+8. Responsive Web Design Projects
 
-10. Link to External Pages with Anchor Elements
-
-11. Link to Internal Sections of a Page with Anchor Elements
-
-12. Nest an Anchor Element within a Paragraph
-
-13. Make Dead Links Using the Hash Symbol
-
-14. Turn an Image into a Link
-
-15. Create a Bulleted Unordered List
-
-16. Create an Ordered List
-
-17. Create a Text Field
-
-18. Add Placeholder Text to a Text Field
-
-19. Create a Form Element
-
-20. Add a Submit Button to a Form
-
-21. Use HTML5 to Require a Field
-
-22. Create a Set of Radio Buttons
-
-23. Create a Set of Checkboxes
-
-24. Use the value attribute with Radio Buttons and Checkboxes
-
-25. Check Radio Buttons and Checkboxes by Default
-
-26. Nest Many Elements within a Single div Element
-
-27. Declare the Doctype of an HTML Document
-
-28. Define the Head and Body of an HTML Document
-
+9. Claim Your Certification
